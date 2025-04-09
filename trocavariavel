@@ -1,0 +1,38 @@
+programa
+{
+	
+	funcao inicio()
+	{
+
+         cadeia j1, k0, aux 
+
+         escreva("\nInforme o valor da variável j1: ") 
+         leia(j1) 
+
+         escreva("\nInforme o valor da variável k0: ")
+         leia(k0)
+
+        
+
+         escreva("\nVariável antes da troca: \n")
+         escreva("J1 = ", j1, "; K0 = ", k0, "\n")
+
+         aux = j1 
+         j1 = k0 
+         k0 = aux 
+
+         escreva("\n")
+         
+         escreva("\nVariável depois da troca: \n")
+         escreva("J1 = ", j1, "; K0 = ", k0, "\n")
+
+
+
+
+
+
+
+
+		
+	}
+}
