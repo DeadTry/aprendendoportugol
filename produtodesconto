@@ -1,1 +1,25 @@
-produtodesconto
+programa
+{
+	
+	funcao inicio()
+	{
+
+         real prod, porcent, final 
+
+         escreva("\nQual o valor do produto: ")
+         leia(prod) 
+
+         porcent = 5 * prod
+         final = (porcent / 100) - prod
+
+         escreva("\nO produto com desconto de 5% é R$", final, " reais \n")
+
+
+
+
+
+
+
+		
+	}
+}
