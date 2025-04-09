@@ -1,0 +1,32 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real litro, ml, gota 
+         cadeia nome
+         escreva("\nInforme o valor em litros: ") 
+         leia(litro)
+
+         escreva("\nDigite o nome do local: ")
+         leia(nome) 
+         
+         ml = litro * 1000 
+         gota = litro * 10000
+
+         escreva("\n", nome, " têm ", ml, " ml ", " e ", gota, " gotas.  \n")
+
+
+
+
+
+
+
+
+
+
+	}  
+
+
+
+}
