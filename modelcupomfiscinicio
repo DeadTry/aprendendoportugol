@@ -1,0 +1,37 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		
+	   escreva("  Caixa: 2 - 05/04/2025 - 18:17:59 \n") 
+	   escreva("     Referente ao cupom n° 65594 \n")
+	   escreva("----------------------------------------------\n") 
+	   escreva("         CUPOM VINCULADO: TEF \n")
+	   escreva("   ----------------------------------------\n") 
+	   escreva("       CNPJ: 45.727.148/0001-60 \n") 
+	   escreva("\n")
+	   escreva("              STONE - VIA CLIENTE \n")
+	   escreva("                  VISA CREDITO \n") 
+	   escreva("\n") 
+	   escreva("   ************3963     05/04/25   18:17 \n")
+	   escreva("         DOC:5001320250425181749 \n") 
+	   escreva("AUT:675047                    ONL - CHIP \n") 
+	   escreva("               EC:350280522 \n") 
+	   escreva("TOTAL                         R$ 31,19 \n") 
+        escreva("\n")
+	   escreva("                 SiTef from Fiserv \n")
+	   
+	   
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
